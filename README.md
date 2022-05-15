@@ -1,3 +1,3 @@
 ﻿# Form-Validation
  
- *using forEach() method and DOM 
+ * using forEach() method and DOM 
